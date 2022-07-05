@@ -1,7 +1,7 @@
 {
   "name": "randercarlos/kafka-queue",
   "require": {
-    "laravel/framework": "^8.50"
+    "laravel/framework": ">=8.50"
   },
   "authors": [
     {
