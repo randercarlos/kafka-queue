@@ -1,0 +1,12 @@
+{
+  "name": "randercarlos/kafka-queue",
+  "require": {
+    "laravel/framework": "^8.50"
+  },
+  "authors": [
+    {
+      "name": "Rander",
+      "email": "randerccf@gmail.com"
+    }
+  ]
+}
